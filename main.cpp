@@ -129,6 +129,6 @@ int main()
 				break;
 		}
     } while (ep!=4);
-    delete num; //free mem
+    delete num; //free memmory
     return 0;
 }
